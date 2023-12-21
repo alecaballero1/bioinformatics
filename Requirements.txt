@@ -1,0 +1,6 @@
+biopython
+pandas
+collections
+glob
+os
+matplotlib
